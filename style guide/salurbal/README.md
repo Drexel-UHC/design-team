@@ -12,3 +12,4 @@
 - ![#bc812f](https://via.placeholder.com/15/bc812f/bc812f.png) `#bc812f`
 - ![#305145](https://via.placeholder.com/15/305145/305145.png) `#305145`
 - ![#cccccc](https://via.placeholder.com/15/cccccc/cccccc.png) `#cccccc`
+- ![#d8e6ed](https://via.placeholder.com/15/d8e6ed/d8e6ed.png) `#d8e6ed`
