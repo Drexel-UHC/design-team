@@ -1,7 +1,13 @@
+# SALURBAL Data Portal
+
+- Background: ![#d8e6ed](https://via.placeholder.com/15/d8e6ed/d8e6ed.png) `#d8e6ed`
+- Dark: ![#303c51](https://via.placeholder.com/15/303c51/303c51.png) `#303c51`
+- Highlight: ![#00bb9e](https://via.placeholder.com/15/00bb9e/00bb9e.png) `#00bb9e`
+
 # SALURBAL Style Guide
 
+## Primary
 
-## Primary 
 - ![#2F8FBC](https://via.placeholder.com/15/2F8FBC/2F8FBC.png) `#2F8FBC`
 - ![#00bb9e](https://via.placeholder.com/15/00bb9e/00bb9e.png) `#00bb9e`
 - ![#303c51](https://via.placeholder.com/15/303c51/303c51.png) `#303c51`
